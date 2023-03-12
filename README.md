@@ -1,4 +1,4 @@
-# Cardiovascular Diseases 👨‍⚕️
+# Cardiovascular Diseases 🫀
 
 The code has been created using Python on Colaboratory and focuses on the **Detection of Cardiovascular Diseases** using Artificial Intelligence.
 
